@@ -1,3 +1,2 @@
 test-repo-pr
-bigyan prakash rout
-devops Engineer
+bigyan prakash
